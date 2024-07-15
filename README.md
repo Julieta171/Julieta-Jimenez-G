@@ -34,6 +34,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 3.  What can I do differently?
 * Approach experts in the field to ask questions.
 * Manage my time better and not dwell on errors for too long.
- 
-  
+<p>Captura1</p>
+  <img src="" alt="PaginaPrincipal">
+
+ <p>Página API creada con json</p>
+<img src="" alt="Elementos">
+ <p>Lo que quería lograr</p>
+<img src="" alt="Login">
+<img src="" alt="Pelis">
+
 
