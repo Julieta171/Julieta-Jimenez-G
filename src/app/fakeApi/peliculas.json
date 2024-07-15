@@ -1,0 +1,95 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "Inception",
+      "director": "Christopher Nolan",
+      "descripcion": "Un ladrón que roba secretos corporativos a través del uso de la tecnología de sueños comparte una última misión para redimirse.",
+      "duracion": "2:28:00",
+      "genero": "Ciencia ficción, Acción",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 2,
+      "nombre": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "descripcion": "La crónica del ascenso y caída de la familia Corleone.",
+      "duracion": "2:55:00",
+      "genero": "Crimen, Drama",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 3,
+      "nombre": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "descripcion": "Las vidas de dos matones, un boxeador, una pareja de criminales y una esposa convergen en una serie de incidentes violentos y entretenidos.",
+      "duracion": "2:34:00",
+      "genero": "Crimen, Drama",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 4,
+      "nombre": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "descripcion": "Dos hombres encarcelados forjan una amistad a lo largo de los años, encontrando consuelo y redención a través de actos comunes de decencia.",
+      "duracion": "2:22:00",
+      "genero": "Drama",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 5,
+      "nombre": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "descripcion": "Batman enfrenta al Joker, un criminal astuto que busca sumir a Gotham en la anarquía.",
+      "duracion": "2:32:00",
+      "genero": "Acción, Crimen, Drama",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "descripcion": "La historia de un hombre con un coeficiente intelectual bajo que logra grandes cosas en su vida.",
+      "duracion": "2:22:00",
+      "genero": "Drama, Romance",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 7,
+      "nombre": "Fight Club",
+      "director": "David Fincher",
+      "descripcion": "Un oficinista insomne y un vendedor de jabón forman un club de lucha clandestino que evoluciona en algo mucho más.",
+      "duracion": "2:19:00",
+      "genero": "Drama",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 8,
+      "nombre": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "descripcion": "Un hacker descubre la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+      "duracion": "2:16:00",
+      "genero": "Ciencia ficción, Acción",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 9,
+      "nombre": "The Lord of the Rings: The Fellowship of the Ring",
+      "director": "Peter Jackson",
+      "descripcion": "Un hobbit se embarca en una búsqueda para destruir un anillo poderoso y peligroso.",
+      "duracion": "2:58:00",
+      "genero": "Fantasía, Aventura",
+      "imagen": "image/jpeg"
+    },
+    {
+      "id": 10,
+      "nombre": "Star Wars: Episode IV - A New Hope",
+      "director": "George Lucas",
+      "descripcion": "Luke Skywalker se une a un caballero Jedi, un piloto arrogante, un Wookiee y dos droides para salvar la galaxia.",
+      "duracion": "2:01:00",
+      "genero": "Ciencia ficción, Aventura",
+      "imagen": "image/jpeg"
+    }
+  ]
+}
+   
