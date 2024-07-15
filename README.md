@@ -35,11 +35,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 * Approach experts in the field to ask questions.
 * Manage my time better and not dwell on errors for too long.
 <p>Captura1</p>
-  <img src="1.png" alt="PaginaPrincipal" whith="15vw">
+  <img src="1.png" alt="PaginaPrincipal" whith="5vw">
  <p>Página API creada con json</p>
-<img src="2.png" alt="Elementos" whith="15vw">
+<img src="2.png" alt="Elementos" whith="5vw">
  <p>Lo que quería lograr</p>
-<img src="3.png" alt="Login" whith="15vw">
-<img src="4.png" alt="Pelis" whith="15vw">
+<img src="3.png" alt="Login" whith="5vw">
+<img src="4.png" alt="Pelis" whith="5vw">
 
 
